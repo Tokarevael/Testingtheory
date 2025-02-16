@@ -14,4 +14,4 @@ Based on the description of the application for the online store, methods, level
 
 ## Requirements Analysis for Online Store Application
 To analyze the requirements, we used ready-made user stories in Youtrack and an application mockup in Figma.  
-[Non-compliance of quality characteristics with requirements](https://docs.google.com/spreadsheets/d/1r1qpWIJBnI4p127mxuFEA77r1x_McjIK/edit?usp=sharing&ouid=103546442425628569603&rtpof=true&sd=true)
+[Analysis of requirements](https://github.com/Tokarevael/Testingtheory/blob/main/Requirements'%20Analysis.xlsx)
