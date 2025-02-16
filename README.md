@@ -10,7 +10,7 @@ To develop it, the designer studied all modern requirements for ease of use and 
 The load on the application is expected to be about 1000 users per minute. The application is also being developed taking into account the requirements of the GDPR.  
   
 Based on the description of the application for the online store, methods, levels and types of testing were identified.  
-[Testing methods, types and levels](https://docs.google.com/spreadsheets/d/13g_L3OpZAdSNEYCx2IIRqBD27L_pcRhp/edit?usp=drive_link&ouid=103546442425628569603&rtpof=true&sd=true)
+[Testing methods, types and levels](https://github.com/Tokarevael/Testingtheory/blob/main/Testing%20methods%2C%20types%20and%20levels.xlsx)
 
 ## Requirements Analysis for Online Store Application
 To analyze the requirements, we used ready-made user stories in Youtrack and an application mockup in Figma.  
